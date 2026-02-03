@@ -199,10 +199,7 @@ Contributions are welcome! Please follow these steps:
    ```
 5. **Create a new Pull Request**.
 
-## Customization
 
-- **Repository URL**: Replace [https://github.com/sajal-0/Personal-finance-Tracker-new-with-frontend-](https://github.com/sajal-0/Personal-finance-Tracker-new-with-frontend-) with the actual URL of your repository.
-- **Database**:  MySQL.
 
 
 
